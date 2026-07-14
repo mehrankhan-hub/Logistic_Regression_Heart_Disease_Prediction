@@ -1,0 +1,7 @@
+Python --version 3.14
+
+import streamlit as st
+import pandas as pd
+import numpy as np
+import pickle as pkl
+from sklearn.linear_model import LogisticRegression
